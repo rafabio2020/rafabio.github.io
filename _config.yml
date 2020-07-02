@@ -1,9 +1,9 @@
 # Site settings
 title: 睿法生物
 description: > # this means to ignore newlines until "baseurl:"
-baseurl: "/creative-theme-jekyll-new/" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
-author: Copyright &copy; 2019 - Start Bootstrap
+baseurl:  # the subpath of your site, e.g. /blog/
+url: "rafabio.com" # the base hostname & protocol for your site
+author: Copyright &copy; Rafabio
 lang: en_US
 
 # Build settings
@@ -21,3 +21,4 @@ exclude:
   - Gemfile.lock
   - build-in-docker.sh
   - README.md
+  
