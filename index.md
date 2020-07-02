@@ -6,7 +6,8 @@ header:
     Technologies for life
   action: # action button is optional
     label: 查看更多
-    url: '#about'
+    # url: '#about'
+    url: about
 
 sections:
   # - type: call-to-action.html
