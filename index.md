@@ -1,8 +1,8 @@
 ---
 layout: home
 header:
-  title: Rafabio
-  text: >Rafabio
+  title: Your Favorite Source of Free Bootstrap Themes
+  text: >
     Start Bootstrap can help you build better websites using the Bootstrap
     framework! Just download a theme and start customizing, no strings attached!
   action: # action button is optional
