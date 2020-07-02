@@ -1,8 +1,8 @@
 ---
 layout: home
 header:
-  title: 基因科技，造福人类
-  text: >精准医学服务提供商
+  title: Rafabio
+  text: >Rafabio
     Start Bootstrap can help you build better websites using the Bootstrap
     framework! Just download a theme and start customizing, no strings attached!
   action: # action button is optional
